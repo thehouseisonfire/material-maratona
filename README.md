@@ -1,4 +1,4 @@
-# PRINT — Material para Maratona de Programação
+# Material para Maratona de Programação
 
 > Acervo pronto para impressão ICPC / OBI — CSES, AtCoder DP, templates, matemática e cadernos de referência.
 
