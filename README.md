@@ -1,6 +1,6 @@
 # Material para Maratona de Programação
 
-> Acervo pronto para impressão ICPC / OBI — CSES, AtCoder DP, templates, matemática e cadernos de referência.
+> Acervo pronto para impressão ICPC — CSES, AtCoder DP, templates, matemática e cadernos de referência.
 
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square)](https://en.cppreference.com/)
 [![ICPC](https://img.shields.io/badge/ICPC-Notebook-red?style=flat-square)](#)
