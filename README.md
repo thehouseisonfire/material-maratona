@@ -19,7 +19,7 @@ Repositório `material-maratona` organizado para virar **caderno de prova**. Tod
 ## Estrutura
 
 ```
-PRINT/
+/
 ├── caderno_maratona_joao.pdf        # Caderno principal (base)
 ├── postila-UFMG-explicada.pdf       # Apostila UFMG comentada
 ├── error-list.pdf                   # Erros comuns & checklist
